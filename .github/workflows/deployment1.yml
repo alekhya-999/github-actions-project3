@@ -1,5 +1,5 @@
-name: githubactions project3
-on: push
+name: githubactions exercise1
+#on: push
 jobs:
      deploy:
         runs-on: ubuntu-latest
